@@ -1,4 +1,4 @@
-XARTANIA LICENSE - Version 1.1
+XARTANIA LICENSE - Version 1.2
 
 Copyright (c) 2025 Tsukini
 
@@ -16,22 +16,13 @@ for any claim, damages, or other liability, whether in an action
 of contract, tort, or otherwise, arising from the use of the
 Software.
 
-2. ATTRIBUTION REQUIRED FOR COMMERCIAL USE
-Non-commercial use is permitted freely, without the attribution requirement.
-Any commercial use of the Software must include clear and
+2. CREDITS
+Any use of the Software must include clear and
 visible credit to the original author: Tsukini.
 It must include the name 'Tsukini' and a link to the original repository
 or even a copy of this license.
 This can be done through a LICENSE file, an “About” section,
 or other relevant project documentation.
-
-"Commercial use" is defined as:
-- Any use, distribution, or modification of the Software in a
-  product, service, or context intended to generate revenue directly
-  or indirectly (including through ads, paid services, donations,
-  subscriptions or crowdfunding)
-- Or any use within a closed-source or proprietary project, regardless
-  of monetization.
 
 3. INTERPRETATION
 This license is intended to promote open usage while ensuring
